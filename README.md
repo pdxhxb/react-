@@ -1,3 +1,20 @@
+项目：是前端笔试的一道题（规定时间48小时）
+
+启动项目 npm start
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
